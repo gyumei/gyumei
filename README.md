@@ -4,7 +4,7 @@
 
 ### This name originate from Dragon Quest
 
-##　Nice to meet you
+###　Nice to meet you
 <!--
 **gyumei/gyumei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
